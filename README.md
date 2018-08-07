@@ -69,7 +69,7 @@ This module makes it much easier to use named pipes. It only uses multithreading
        p.connect()
        start = time.time()
        for i in range(1000):
-           print(p.send("AAA"))
+           print(p.send("BBB"))
        end = time.time()
        print("tm:" + str((end-start)*1000))
        p.close()
