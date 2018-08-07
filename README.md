@@ -13,7 +13,7 @@ This module makes it much easier to use named pipes. It only uses multithreading
 ```
 # Examples
 
-## Server.py
+### Server.py
 ```
        #!/usr/bin/env python
        # coding:utf-8
@@ -37,7 +37,7 @@ This module makes it much easier to use named pipes. It only uses multithreading
                time.sleep(10)
 ```
 
-## ClientA.py
+### ClientA.py
 ```
        #!/usr/bin/env python
        #encoding: utf-8
@@ -57,7 +57,7 @@ This module makes it much easier to use named pipes. It only uses multithreading
 
 
 
-## ClientB.py
+### ClientB.py
 ```
        #!/usr/bin/env python
        #encoding: utf-8
