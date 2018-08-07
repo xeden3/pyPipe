@@ -77,4 +77,5 @@ print("tm:" + str((end-start)*1000))
 p.close()
 ```
 # Screenshot
+This is the screenshot of running in raspberry pi 3B
 ![image](https://raw.githubusercontent.com/xeden3/pyPipe/master/screenshot.png)
